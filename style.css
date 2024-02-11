@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: oblique;
+
+}
+
+#head{
+ color: #157baa;
+ font-weight: bolder;
+ padding: 15px;
+}
+#text{
+    padding: 6px 15px;
+    border-radius: 20px;  
+}
+#text:hover{
+    background-color: #157baa;
+    color: white;
+    padding: 6px 15px;
+    border-radius: 20px;
+}
+.nav-item{
+    padding: 15px;
+}
+#heading{
+    align-items: center;
+    justify-content: center;
+    
+}
+.head{
+    text-align: justify;
+}
+.para{
+    text-align: justify;
+}
+.background{
+    width: 100%;
+    
+    background-image: url('https://static.vecteezy.com/system/resources/previews/026/702/452/original/register-a-bank-account-opening-bank-account-illustration-concept-illustration-vector.jpg');
+}
+#button{
+    align-items: center;
+    
+}
+#reg{
+    font-weight: bolder;
+    color: #157baa;
+}
+#btn1{
+    margin-top:50px;
+}
